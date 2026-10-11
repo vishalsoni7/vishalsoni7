@@ -6,34 +6,34 @@ Outside work I build small tools for problems I keep running into.
 
 ## What I'm building
 
-**[ATM Status](https://github.com/vishalsoni7/atm-status)** · [live](https://atmstatus.vercel.app)
-Tells people whether a nearby ATM is working before they go. ATM locations come from OpenStreetMap; statuses come from people who report at the ATM.
+**[ATM Status](https://github.com/vishalsoni7/atm-status)** · [live](https://atmstatus.vercel.app)<br>
+Tells people whether a nearby ATM is working before they go. ATM locations come from OpenStreetMap; statuses come from people who report at the ATM.<br>
 `React` `TypeScript` `Tailwind` `Leaflet` `Supabase (Postgres + PostGIS)` `PWA`
 
-**Deploy Tracker** · private
-Tracks changes merged to Demo that never reached Prod, so nothing gets lost between staging and production.
+**Deploy Tracker** · private<br>
+Tracks changes merged to Demo that never reached Prod, so nothing gets lost between staging and production.<br>
 `Python`
 
-**[GharBanao](https://github.com/vishalsoni7/ghar-banao)**
-Construction material and expense tracker for house builds: vendors, purchases, bills, payments and reports.
+**[GharBanao](https://github.com/vishalsoni7/ghar-banao)**<br>
+Construction material and expense tracker for house builds: vendors, purchases, bills, payments and reports.<br>
 `React` `MUI` `Recharts` `Express` `MongoDB`
 
-**[Kaamgar](https://github.com/vishalsoni7/contractor-app)**
-Workforce management for contractors: worker profiles, attendance tracking and reports.
+**[Kaamgar](https://github.com/vishalsoni7/contractor-app)**<br>
+Workforce management for contractors: worker profiles, attendance tracking and reports.<br>
 `React` `MUI`
 
-**[Text Highlighter](https://github.com/vishalsoni7/web-text-heighlight)**
-Chrome extension that highlights text on any webpage and saves it locally.
+**[Text Highlighter](https://github.com/vishalsoni7/web-text-heighlight)**<br>
+Chrome extension that highlights text on any webpage and saves it locally.<br>
 `React` `TypeScript` `Chrome Storage API`
 
-**[Portfolio](https://github.com/vishalsoni7/aboutvishal)** · [live](https://vishalsoni.netlify.app)
-Blueprint-style portfolio site.
+**[Portfolio](https://github.com/vishalsoni7/aboutvishal)** · [live](https://vishalsoni.netlify.app)<br>
+Blueprint-style portfolio site.<br>
 `React` `TypeScript` `Vite`
 
 ## Stack
 
-**Frontend** React, TypeScript, Vite, Tailwind, MUI
-**Backend** PHP, Laravel, Node.js, Express, NestJS
+**Frontend** React, TypeScript, Vite, Tailwind, MUI<br>
+**Backend** PHP, Laravel, Node.js, Express, NestJS<br>
 **Data** Supabase, Postgres, MongoDB
 
 ## Find me
