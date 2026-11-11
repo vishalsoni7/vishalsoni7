@@ -4,6 +4,12 @@ Frontend developer based in Rajasthan, India. I build React and TypeScript inter
 
 Outside work I build small tools for problems I keep running into.
 
+<p align="center">
+  <a href="https://github.com/PramudithaN/git-tulkun">
+    <img src="https://raw.githubusercontent.com/vishalsoni7/vishalsoni7/output/tulkun/tulkun.gif" width="640" alt="git-tulkun swimming" />
+  </a>
+</p>
+
 ## What I'm building
 
 **[ATM Status](https://github.com/vishalsoni7/atm-status)** · [live](https://atmstatus.vercel.app)<br>
