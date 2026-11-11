@@ -1,6 +1,6 @@
 # Hi, I'm Vishal
 
-Frontend developer based in Rajasthan, India. I build React and TypeScript interfaces at [Afton Tickets](https://github.com/Afton-Tickets), a large-scale ticketing platform, and work in PHP/Laravel when a feature needs the backend too.
+Software Engineer based in Rajasthan, India. I build React and TypeScript interfaces at [Afton Tickets](https://github.com/Afton-Tickets), a large-scale ticketing platform, and work in PHP/Laravel when a feature needs the backend too.
 
 Outside work I build small tools for problems I keep running into.
 
